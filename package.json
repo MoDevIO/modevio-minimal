@@ -1,0 +1,21 @@
+{
+  "name": "modevio-minimal",
+  "displayName": "Minimal",
+  "description": "Very minimal Theme without annoying borders",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal Theme-color-theme.json"
+      }
+    ]
+  }
+}
