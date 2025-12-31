@@ -3,6 +3,10 @@
   "displayName": "Minimal Theme",
   "description": "Very minimal Theme without annoying borders",
   "publisher": "MoDevIO",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoDevIO/modevio-minimal"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
