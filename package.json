@@ -1,6 +1,7 @@
 {
   "name": "modevio-minimal",
   "displayName": "Minimal VSC Theme",
+  "icon": "icon.png",
   "description": "Very minimal Theme without annoying borders",
   "publisher": "MoDevIO",
   "repository": {
