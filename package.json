@@ -2,6 +2,7 @@
   "name": "modevio-minimal",
   "displayName": "Minimal Theme",
   "description": "Very minimal Theme without annoying borders",
+  "publisher": "MoDevIO",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
